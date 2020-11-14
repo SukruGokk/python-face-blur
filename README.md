@@ -5,4 +5,4 @@
 
 (EN) RESULT / (TR) SONUÇ
 
-![alt text](https://github.com/SukruGokk/python-face-blur/blob/master/result.jpg)
+![alt text](https://github.com/SukruGokk/python-face-blur/blob/main/result.jpg)
